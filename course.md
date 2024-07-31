@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "BE/Bi 103 a"
-nav_order: 1
+title: "Course Overview"
+nav_order: 2
 ---
 
 # BE/Bi 103 a: Introduction to Data Analysis in the Biological Sciences
